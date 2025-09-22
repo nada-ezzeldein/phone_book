@@ -1,2 +1,13 @@
-# phone_book
-A simple C++ phone book application that stores names and phone numbers. It allows users to search either by name or by phone number and quickly retrieves all matching results.
+Phone Book:
+This project is a C++ phone book application that allows users to search for contacts easily by their numbers or their name.
+-----------------------------------------------------------------------------------------
+Features:
+- Search contacts by name or phone number.  
+- Display all matching results quickly.  
+- Simple and user-friendly console interface.   
+-----------------------------------------------------------------------------------------
+Developed by
+- Nada Ezz El_dein.
+- Hadeer Mostafa.
+- Yosra Amin.
+- Sandy Makram.
