@@ -1,0 +1,6 @@
+﻿  phone book.cpp
+D:\phone book\phone book\phone book.cpp(22,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\phone book\phone book\phone book.cpp(23,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\phone book\phone book\phone book.cpp(81,9): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\phone book\phone book\phone book.cpp(81,22): warning C4804: '<': unsafe use of type 'bool' in operation
+  phone book.vcxproj -> D:\phone book\x64\Debug\phone book.exe
